@@ -1,0 +1,14 @@
+{
+  "name": "gatsby-remark-slidify",
+  "version": "0.0.1",
+  "description": "Gatsby Remark Transformer Plugin for creating reveal.js slides",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "James Ward <james@notjam.es>",
+  "license": "MIT",
+  "dependencies": {
+    "escape-string-regexp": "^2.0.0"
+  }
+}
