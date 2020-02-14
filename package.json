@@ -1,6 +1,6 @@
 {
   "name": "gatsby-remark-slidify",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Gatsby Remark Transformer Plugin for creating reveal.js slides",
   "main": "index.js",
   "scripts": {
